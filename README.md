@@ -27,4 +27,4 @@ Dans le cadre de son projet d’expansion à l’international, la mission se d�
 
 ## Livrables
 * LeRay_Adeline_1_Notebook_092023.ipynb : Notebook d'analyse des données
-* LeRay_Adeline_2_Présentation_092023.pptx : Présentation de soutenance du projet
+* LeRay_Adeline_2_Présentation_092023.pdf : Présentation de soutenance du projet
