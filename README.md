@@ -1,19 +1,19 @@
-# Analyse des données de systèmes éducatifs
-
-_Projet réalisé dans le cadre de la formation Data Scientist d'OpenClassrooms (Projet n°2 - Sept. 2023)_
-
-## Compétences acquises
-* Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
-* Manipuler des données avec des librairies Python spécialisées
-* Maîtriser les opérations fondamentales du langage Python pour la Data Science
-* Mettre en place un environnement Python
-* Effectuer une analyse univariée et des représentations graphiques avec une librairie
+# Scoring pays – Aide à la décision stratégique d’expansion d'une start-up de la Edtech
 
 ## Contexte
-Academy est une start-up de la EdTech qui propose des contenus de formation en ligne pour un public de niveau lycée et université. 
-Dans le cadre de son projet d’expansion à l’international, la mission se décompose en 2 parties : 
-* réaliser une analyse exploratoire pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion
-* explorer les pays avec un fort potentiel de clients pour les services de academy, et comment ce potentiel pourrait évoluer.
+Academy est une start-up de la EdTech qui propose des contenus de formation en ligne pour un public de niveau lycée et université. Elle souhaite s'étendre à l'international.
+
+## Mission
+Evaluer la pertinence d’un jeu de données pour identifier les pays cibles, proposer un score par pays basé sur l’analyse exploratoire de données éducatives.
+
+## Tâches
+* Nettoyage des données
+* Analyse exploratoire (EDA)
+* Définition de KPI
+* Construction d’un référentiel de scoring pour comparer des pays cibles
+
+## Résultats
+Recommandation de marchés prioritaires fondée sur les données.
 
 ## Données
 * Source :  [Organisme “EdStats All Indicator Query” de la Banque mondiale](https://datacatalog.worldbank.org/search/dataset/0038480)
@@ -25,6 +25,4 @@ Dans le cadre de son projet d’expansion à l’international, la mission se d�
     - EdStatsFootNote.csv
     - EdStatsSeries.csv
 
-## Livrables
-* LeRay_Adeline_1_Notebook_092023.ipynb : Notebook d'analyse des données
-* LeRay_Adeline_2_Présentation_092023.pdf : Présentation de soutenance du projet
+_Projet réalisé dans le cadre de la formation Data Scientist d'OpenClassrooms (Projet n°2 - Sept. 2023)_
